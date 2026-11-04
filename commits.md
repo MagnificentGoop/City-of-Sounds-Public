@@ -4,3 +4,6 @@ Add a workflow that appends each commit pushed to `main` to the public repositor
 - **MagnificentGoop**: Update commit log author identity
 
 Configure the publish workflow to use the repository owner's identity when committing updates to the commit log. ([View Commit](https://github.com/MagnificentGoop/City-of-Sounds/commit/9f5314613ad6c3e3c5a318940bbe56839f1a3a00))
+- **MagnificentGoop**: Tune player camera rotation
+
+Document the expected player object setup, reduce mouse-look sensitivity, clamp pitch before applying camera rotation, and lower the default jump power. ([View Commit](https://github.com/MagnificentGoop/City-of-Sounds/commit/01c92d20c0c39296832a8f7af609849f97b05bb0))
