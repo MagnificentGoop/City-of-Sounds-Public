@@ -7,3 +7,6 @@ Configure the publish workflow to use the repository owner's identity when commi
 - **MagnificentGoop**: Tune player camera rotation
 
 Document the expected player object setup, reduce mouse-look sensitivity, clamp pitch before applying camera rotation, and lower the default jump power. ([View Commit](https://github.com/MagnificentGoop/City-of-Sounds/commit/01c92d20c0c39296832a8f7af609849f97b05bb0))
+- **MagnificentGoop**: Add player setup and tune jump behavior
+
+Add a player with movement controls and a ground platform to the sample scene. Rename the midair jump setting and adjust jump velocity calculations; update Unity scene and render-pipeline settings. ([View Commit](https://github.com/MagnificentGoop/City-of-Sounds/commit/fd52a5feaa9b47d499c028f181219770c38033f7))
