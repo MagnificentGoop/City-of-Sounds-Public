@@ -14,3 +14,6 @@ Add a player with movement controls and a ground platform to the sample scene. R
 - **MagnificentGoop**: Organize Unity assets into feature folders
 
 Move gameplay assets into MainGame and Player, and render pipeline settings into Renderer. Remove the Unity tutorial Readme assets and editor project entry. ([View Commit](https://github.com/MagnificentGoop/City-of-Sounds/commit/268992d2e9ffe6c7dde545ae762d7988739ef6ae))
+- **MagnificentGoop**: Update build scene path
+
+Point the enabled build scene to its new location under `Assets/MainGame/Scenes`. ([View Commit](https://github.com/MagnificentGoop/City-of-Sounds/commit/bbec231d233e8a27b441ad1301d524f87a042a67))
