@@ -10,3 +10,4 @@ Document the expected player object setup, reduce mouse-look sensitivity, clamp 
 - **MagnificentGoop**: Add player setup and tune jump behavior
 
 Add a player with movement controls and a ground platform to the sample scene. Rename the midair jump setting and adjust jump velocity calculations; update Unity scene and render-pipeline settings. ([View Commit](https://github.com/MagnificentGoop/City-of-Sounds/commit/fd52a5feaa9b47d499c028f181219770c38033f7))
+- **MagnificentGoop**: Add new story ideas ([View Commit](https://github.com/MagnificentGoop/City-of-Sounds/commit/f927d49ec585c2502a2b5fcb3268333a5211efc1))
